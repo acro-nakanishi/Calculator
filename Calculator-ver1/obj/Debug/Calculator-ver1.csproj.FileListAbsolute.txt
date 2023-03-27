@@ -1,0 +1,11 @@
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\bin\Debug\Calculator-ver1.exe.config
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\bin\Debug\Calculator-ver1.exe
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\bin\Debug\Calculator-ver1.pdb
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.csproj.AssemblyReference.cache
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.csproj.SuggestedBindingRedirects.cache
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator_ver1.Properties.Resources.resources
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.csproj.GenerateResource.cache
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.csproj.CoreCompileInputs.cache
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.exe
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator-ver1.pdb
+C:\Users\私\source\repos\Calculator-ver1\Calculator-ver1\obj\Debug\Calculator_ver1.Form_calculator.resources
